@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314663216248",
+    "project_id": "app-de-encuestas",
+    "storage_bucket": "app-de-encuestas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314663216248:android:c7e6874d133a47bc8ff98d",
+        "android_client_info": {
+          "package_name": "com.saulSant.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tYCgqojg5v-ipVAm0WVZ_KFsWDUcLgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
